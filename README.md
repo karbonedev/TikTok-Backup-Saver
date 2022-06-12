@@ -3,7 +3,7 @@
 <p align="center">
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Karbone-DEV/TikTok-Backup-Saver.svg">
 <img alt="OS" src="https://img.shields.io/badge/OS-Windows%20/%20Linux / Mac-success">
-<a href="https://github.com/Karbone-DEV/TikTok-Backup-Saver/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/Karbone-DEV/TikTok-Backup-Saver/total?label=Downloads&color=success"></a>
+<a href="https://img.shields.io/github/downloads/Karbone-DEV/TikTok-Backup-Saver/total?label=Downloads&color=success"><img alt="Downloads" src="https://img.shields.io/github/downloads/Karbone-DEV/TikTok-Backup-Saver/total?label=Downloads&color=success"></a>
 <a href="https://github.com/MShawon/YouTube-Viewer/issues?q=is%3Aissue+is%3Aclosed"><img alt="Closed issues" src="https://img.shields.io/github/issues-closed/Karbone-DEV/TikTok-Backup-Saver.svg"></a>
 <a href="https://github.com/MShawon/YouTube-Viewer/issues?q=is%3Aissue+is%3Aopen"><img alt="Open issues" src="https://img.shields.io/github/issues/Karbone-DEV/TikTok-Backup-Saver"></a>
 </p>
